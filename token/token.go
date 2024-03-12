@@ -1,5 +1,4 @@
 package token
-
 //custom type called TokenType
 type TokenType string
 //struct named token has two fields, Type and Literal
@@ -28,4 +27,3 @@ const (
 	FUNCTION = "FUNCTION"
 	LET = "LET"
 )
-
